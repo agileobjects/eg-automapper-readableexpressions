@@ -12,14 +12,10 @@ namespace AgileObjects.Examples.AutoMapperReadableExpressions.TestClasses
 
         public string BrideAddressLine1 { get; set; }
         
-        public string BrideAddressLine2 { get; set; }
-
         public string GroomTitle { get; set; }
 
         public string GroomName { get; set; }
 
         public string GroomAddressLine1 { get; set; }
-
-        public string GroomAddressLine2 { get; set; }
     }
 }

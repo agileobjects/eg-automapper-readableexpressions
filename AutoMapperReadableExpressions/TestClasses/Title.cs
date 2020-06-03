@@ -2,20 +2,6 @@
 {
     internal enum Title
     {
-        Unknown,
-        Mr,
-        Master,
-        Ms,
-        Miss,
-        Mrs,
-        Dr,
-        Hon,
-        Duke,
-        Count,
-        Earl,
-        Viscount,
-        Lord,
-        Lady,
-        Other
+        Other, Mr, Ms, Miss, Mrs, Dr
     }
 }

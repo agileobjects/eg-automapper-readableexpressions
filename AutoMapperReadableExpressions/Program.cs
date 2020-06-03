@@ -10,7 +10,6 @@
     {
         public static void Main(string[] args)
         {
-            // Create the Wedding -> WeddingDto flattening map:
             var configuration = new MapperConfiguration(cfg =>
             {
                 cfg.CreateMap<Wedding, WeddingDto>();
