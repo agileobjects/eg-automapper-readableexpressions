@@ -1,4 +1,4 @@
-# Using ReadableExpressions to view Automapper Execution Plans
+# Viewing Automapper Execution Plans with ReadableExpressions
 
 This repo demonstrates how to use AutoMapper with ReadableExpressions.
 
