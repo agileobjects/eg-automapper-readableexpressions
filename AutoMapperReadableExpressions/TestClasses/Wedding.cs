@@ -1,13 +1,12 @@
-﻿namespace AgileObjects.Examples.AutoMapperReadableExpressions.TestClasses
+﻿namespace AgileObjects.Examples.AutoMapperReadableExpressions.TestClasses;
+
+using System;
+
+internal class Wedding
 {
-    using System;
+    public DateTime Date { get; set; }
 
-    internal class Wedding
-    {
-        public DateTime Date { get; set; }
+    public Person Bride { get; set; }
 
-        public Person Bride { get; set; }
-
-        public Person Groom { get; set; }
-    }
+    public Person Groom { get; set; }
 }

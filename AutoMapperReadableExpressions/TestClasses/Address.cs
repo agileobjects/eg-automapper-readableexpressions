@@ -1,7 +1,6 @@
-﻿namespace AgileObjects.Examples.AutoMapperReadableExpressions.TestClasses
+﻿namespace AgileObjects.Examples.AutoMapperReadableExpressions.TestClasses;
+
+public class Address
 {
-    public class Address
-    {
-        public string Line1 { get; set; }
-    }
+    public string Line1 { get; set; }
 }

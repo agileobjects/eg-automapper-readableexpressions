@@ -1,7 +1,6 @@
-﻿namespace AgileObjects.Examples.AutoMapperReadableExpressions.TestClasses
+﻿namespace AgileObjects.Examples.AutoMapperReadableExpressions.TestClasses;
+
+internal enum Title
 {
-    internal enum Title
-    {
-        Other, Mr, Ms, Miss, Mrs, Dr
-    }
+    Other, Mr, Ms, Miss, Mrs, Dr
 }

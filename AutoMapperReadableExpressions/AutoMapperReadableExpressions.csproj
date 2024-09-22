@@ -2,13 +2,13 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <RootNamespace>AgileObjects.Examples.AutoMapperReadableExpressions</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="AgileObjects.ReadableExpressions" Version="2.5.0" />
-    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="AgileObjects.ReadableExpressions" Version="4.1.3" />
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
   </ItemGroup>
 
   <ItemGroup>
